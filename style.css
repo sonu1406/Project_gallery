@@ -1,0 +1,17 @@
+
+body {
+    background-color: #f8f9fa; 
+}
+
+iframe {
+    height: 600px; 
+    border: none;
+}
+
+
+@media (max-width: 768px) {
+    iframe {
+        height: 400px; 
+    }
+}
+
